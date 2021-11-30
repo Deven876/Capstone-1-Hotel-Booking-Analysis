@@ -7,9 +7,9 @@ This data set contains booking information for a city hotel and a resort hotel, 
 ## Explore and analyze the data to discover important factors that govern the bookings. </b>
 
 # Dataset Information
--Hotel
-H1: Resort hotel
-H2: City hotel
+- **Hotel**
+* H1: Resort hotel
+* H2: City hotel
 is_canceled
 1: Canceled
 0: Not canceled
