@@ -9,7 +9,9 @@ Explore and analyze the data to discover important factors that govern the booki
 # Dataset Information
 Hotel
 H1: Resort hotel
+
 H2: City hotel
+
 is_canceled
 1: Canceled
 0: Not canceled
