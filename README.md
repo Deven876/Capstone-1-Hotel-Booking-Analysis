@@ -8,6 +8,9 @@ Have you ever wondered when the best time of year to book a hotel room is? Or th
 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data. </b>
 
+ ### **Explore and analyze the data to discover important factors that govern the bookings. </b>**
+
+
 <h2> :floppy_disk: Project Files Description</h2>
 
 <p>This Project includes 1 executable file, 1 dataset  as follows:</p>
@@ -16,9 +19,6 @@ This data set contains booking information for a city hotel and a resort hotel, 
   <li><b>Capstone_Project_1_Hotel_Booking_Analysis.ipynb</b> - Includes all Eda and visualisation and insights.</li>
   <li><b>Hotel Bookings.csv'</b> - Contains Datapoints used for Eda</li>
  
-
- ### **Explore and analyze the data to discover important factors that govern the bookings. </b>**
-
 - **Hotel**
  * H1: Resort hotel
  * H2: City hotel
