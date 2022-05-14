@@ -20,8 +20,8 @@ This data set contains booking information for a city hotel and a resort hotel, 
   <li><b>Hotel Bookings.csv'</b> - Contains Datapoints used for Eda</li>
  
  - **Hotel**
- * H1: Resort hotel
- * H2: City hotel
+ 1. H1: Resort hotel
+ 2. H2: City hotel
 - **is_canceled**
  * 1: Canceled 
  * 0: Not canceled
