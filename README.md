@@ -77,3 +77,37 @@ This data set contains booking information for a city hotel and a resort hotel, 
 - **reservation_status_date**
  * Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
 
+
+-----------------------------------------------------
+📋 Summary This project is aimed at performing Exploratory Data Analysis (EDA) on a hotel bookings dataset. Exploratory Data Analysis is a key part of any machine learning project. Performing an EDA helps a Data Scientist understand the data in depth. The data comprises of various columns such as types of hotels, countries, stays, average daily rate etc.
+
+The data was first cleaned before analyzing it to find details. Data cleaning mainly comprised of null value handling.
+
+The libraries that are used in this project are:
+
+Pandas
+Matplotlib
+Seaborn These libraries helped in data handling and visualization.
+-----------------------------------------------------
+
+🔍 Findings
+Some of the important findings after performing the EDA are:
+
+Average lead time for bookings are 104 days approximately.
+Portugal has the highest weekend and weekday bookings.
+Most cancellations happen in the month of August.
+87.5% people get rooms that they booked for.
+Online Travel Agents have the biggest market segment.
+Room type ‘A’ is the most opted for choice.
+Djibouti as a country of origin has the highest average daily rate of 273 Djiboutian franc.
+Portugal as a country of origin has an average daily rate of 92 Euros.
+Indian origin bookings book more city hotels than resort hotels.
+Busiest months in India are November, April and May.
+India has a cancellation rate of 23.03%.
+Lead time for booking from India is 48.9 ~ 49 days.
+-----------------------------------------------------
+
+📜 Credits
+< Devendra Bhangale > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+Contact me for Data Science Project Collaborations
