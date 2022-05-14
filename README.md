@@ -19,6 +19,9 @@ This data set contains booking information for a city hotel and a resort hotel, 
   <li><b>Capstone_Project_1_Hotel_Booking_Analysis.ipynb</b> - Includes all Eda and visualisation and insights.</li>
   <li><b>Hotel Bookings.csv'</b> - Contains Datapoints used for Eda</li>
  
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ ## **Dataset Information**
+ 
  - **Hotel**
  1. H1: Resort hotel
  2. H2: City hotel
