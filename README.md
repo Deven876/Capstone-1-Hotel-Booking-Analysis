@@ -1,4 +1,7 @@
-# Capstone-1-Hotel-Booking-Analysis
+# Capstone-Project_1-Hotel-Booking-Analysis
+Analyzing important factors that govern the bookings
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## **Problem Statement**
 Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? This hotel booking dataset can help you explore those questions!
@@ -77,37 +80,45 @@ This data set contains booking information for a city hotel and a resort hotel, 
 - **reservation_status_date**
  * Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
------------------------------------------------------
-📋 Summary This project is aimed at performing Exploratory Data Analysis (EDA) on a hotel bookings dataset. Exploratory Data Analysis is a key part of any machine learning project. Performing an EDA helps a Data Scientist understand the data in depth. The data comprises of various columns such as types of hotels, countries, stays, average daily rate etc.
+📋 Summary
+This project is aimed at performing Exploratory Data Analysis (EDA) on a hotel bookings dataset. Exploratory Data Analysis is a key part of any machine learning project. Performing an EDA helps a Data Scientist understand the data in depth. The data comprises of various columns such as types of hotels, countries, stays, average daily rate etc.
 
 The data was first cleaned before analyzing it to find details. Data cleaning mainly comprised of null value handling.
 
 The libraries that are used in this project are:
 
-Pandas
-Matplotlib
-Seaborn These libraries helped in data handling and visualization.
------------------------------------------------------
+1. Pandas
+2. Matplotlib
+3. Seaborn These libraries helped in data handling and visualization.
 
-🔍 Findings
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+# 🔍 **Findings**
+
 Some of the important findings after performing the EDA are:
 
-Average lead time for bookings are 104 days approximately.
-Portugal has the highest weekend and weekday bookings.
-Most cancellations happen in the month of August.
-87.5% people get rooms that they booked for.
-Online Travel Agents have the biggest market segment.
-Room type ‘A’ is the most opted for choice.
-Djibouti as a country of origin has the highest average daily rate of 273 Djiboutian franc.
-Portugal as a country of origin has an average daily rate of 92 Euros.
-Indian origin bookings book more city hotels than resort hotels.
-Busiest months in India are November, April and May.
-India has a cancellation rate of 23.03%.
-Lead time for booking from India is 48.9 ~ 49 days.
------------------------------------------------------
+1.Majority of the hotels booked are city hotel. Definitely need to spend the most targeting fund on those hotel.
+2.We also realise that the high rate of cancellations can be due high no deposit policies.
+3.We should also target months between May to Aug. Those are peak months due to the summer period.
+4.Majority of the guests are from Western Europe. We should spend a significant amount of our budget on those area.
+5.Given that we do not have repeated guests, we should target our advertisement on guests to increase returning guests.
 
-📜 Credits
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 id="credits"> :scroll: Credits</h2>
+
 < Devendra Bhangale > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
-Contact me for Data Science Project Collaborations
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendra-bhangale-b326a1169/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deven876)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devabhangale)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+📚References
+
+1. Exploratory Data Analysis (EDA) - https://www.ibm.com/cloud/learn/exploratory-data-analysis
+2. Seaborn Documentation - https://seaborn.pydata.org/api.html
