@@ -19,8 +19,9 @@ This data set contains booking information for a city hotel and a resort hotel, 
   <li><b>Capstone_Project_1_Hotel_Booking_Analysis.ipynb</b> - Includes all Eda and visualisation and insights.</li>
   <li><b>Hotel Bookings.csv'</b> - Contains Datapoints used for Eda</li>
  
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
- ## **Dataset Information**
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+## **Dataset Information**
  
  - **Hotel**
  1. H1: Resort hotel
@@ -93,9 +94,9 @@ This data set contains booking information for a city hotel and a resort hotel, 
 - **reservation_status_date**
  * Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-📋 Summary
+ 📋 Summary
 This project is aimed at performing Exploratory Data Analysis (EDA) on a hotel bookings dataset. Exploratory Data Analysis is a key part of any machine learning project. Performing an EDA helps a Data Scientist understand the data in depth. The data comprises of various columns such as types of hotels, countries, stays, average daily rate etc.
 
 The data was first cleaned before analyzing it to find details. Data cleaning mainly comprised of null value handling.
