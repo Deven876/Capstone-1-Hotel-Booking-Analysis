@@ -98,11 +98,11 @@ The libraries that are used in this project are:
 
 Some of the important findings after performing the EDA are:
 
-1.Majority of the hotels booked are city hotel. Definitely need to spend the most targeting fund on those hotel.
-2.We also realise that the high rate of cancellations can be due high no deposit policies.
-3.We should also target months between May to Aug. Those are peak months due to the summer period.
-4.Majority of the guests are from Western Europe. We should spend a significant amount of our budget on those area.
-5.Given that we do not have repeated guests, we should target our advertisement on guests to increase returning guests.
+- 1.Majority of the hotels booked are city hotel. Definitely need to spend the most targeting fund on those hotel.
+- 2.We also realise that the high rate of cancellations can be due high no deposit policies.
+- 3.We should also target months between May to Aug. Those are peak months due to the summer period.
+- 4.Majority of the guests are from Western Europe. We should spend a significant amount of our budget on those area.
+- 5.Given that we do not have repeated guests, we should target our advertisement on guests to increase returning guests.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
