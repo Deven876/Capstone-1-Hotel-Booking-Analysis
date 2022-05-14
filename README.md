@@ -121,7 +121,7 @@ Some of the important findings after performing the EDA are:
 
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Devendra Bhangale > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+< Devendra Bhangale > | Problem Solver | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
